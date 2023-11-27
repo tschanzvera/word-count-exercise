@@ -7,6 +7,10 @@ NOTE:
 
 This is a little exercise that I had to do for my MITxPRO course.
 
+## SUPPORT
+
+If you have any questions about this exercise contact me at www.linkedin.com/in/vera-tschanz-500258a2
+
 ## LICENSE
 
 MIT license
