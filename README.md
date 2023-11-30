@@ -7,6 +7,10 @@ NOTE:
 
 This is a little exercise that I had to do for my MITxPRO course.
 
+## Description
+
+A little exercise that I did for my MITxPro course where I had to print the 3 most common words in a text
+
 ## SUPPORT
 
 If you have any questions about this exercise contact me at www.linkedin.com/in/vera-tschanz-500258a2
